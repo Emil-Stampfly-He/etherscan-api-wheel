@@ -67,6 +67,4 @@ public class Transaction {
     private String parseMethodId(String input) {
         return (input != null && input.length() >= 10) ? input.substring(0, 10) : "";
     }
-
-
 }

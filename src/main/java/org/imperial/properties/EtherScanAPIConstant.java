@@ -2,7 +2,7 @@ package org.imperial.properties;
 
 public class EtherScanAPIConstant {
     public static final int MAXIMUM_NUM_IN_ONE_CALL = 10000;
-    public static final String API_KEY = ""; // Change it
+    public static final String API_KEY = "JPX8B6SQVJBTNN4NQN84XASMMNEZR474RF";
     public static final String BASE_URL = "https://api.etherscan.io/api";
 
     public static final String ACCOUNT_BALANCE_URL = "%s?module=account" +
